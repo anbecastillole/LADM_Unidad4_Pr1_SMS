@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "665096583948",
+    "project_id": "ladmu4pr1castillobenavides",
+    "storage_bucket": "ladmu4pr1castillobenavides.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665096583948:android:ed3bf325faec78f98d2729",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u4_practica1_almacensms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665096583948-cfj5vn98mkq1iv0el2608ijt6d7gptjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0toxhWwkWgbDGRg7nkFM7gXfAMfRa9og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665096583948-cfj5vn98mkq1iv0el2608ijt6d7gptjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665096583948:android:354539ad2216a75f8d2729",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u4_pr1_almacensms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665096583948-cfj5vn98mkq1iv0el2608ijt6d7gptjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0toxhWwkWgbDGRg7nkFM7gXfAMfRa9og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665096583948-cfj5vn98mkq1iv0el2608ijt6d7gptjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
